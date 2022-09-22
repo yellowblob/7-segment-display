@@ -7,3 +7,5 @@ OSC messages:
 /segmentControl [data byte 1] [data byte 2]  
 /clear 1  
 /ping 1
+
+For ip and port setting check /Countdown/OSC.ino lines 6 to 9.
